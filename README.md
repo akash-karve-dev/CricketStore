@@ -1,2 +1,6 @@
 # CricketStoreMicroservice
- Sample ecommerce microservices app
+
+
+## Architecture Diagram
+
+![Diagram](/SolutionItems/architecture.drawio.svg)
