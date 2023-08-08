@@ -1,4 +1,4 @@
-# CricketStoreMicroservice
+# Cricket Store 
 
 
 ## Architecture Diagram
